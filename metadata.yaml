@@ -1,0 +1,33 @@
+_repo: The-Shape-of-Fear_1876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peattie, Elia Wilkinson
+    alias: Wilkinson, Elia
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '731'
+    url: http://www.gutenberg.org/2009/agents/731
+    wikipedia: http://en.wikipedia.org/wiki/Elia_W._Peattie
+description: ''
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Ghost stories, American'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The shape of fear -- On the northern ice -- Their dear little ghost
+  -- A spectral collie -- The house that was not -- Story of an obstinate corpse --
+  A child of the rain -- The room of evil thought -- Story of the vanishing patient
+  -- The piano next door -- An astral onion -- From the loom of the dead -- A grammatical
+  ghost.
+title: The Shape of Fear
+url: http://www.gutenberg.org/ebooks/1876
